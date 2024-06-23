@@ -2,6 +2,7 @@
   "name": "quick-commit",
   "publisher": "Muhammad Idrees",
   "displayName": "quick_commit",
+  "repository": "https://github.com/muhammadidrees/quick-commit",
   "description": "Commit all changes to git with one press",
   "version": "0.0.1",
   "engines": {
